@@ -1,0 +1,23 @@
+.contain-to-grid, .top-bar {
+	background: white;
+	.logo {
+		xmargin-right: 16px; 
+	}
+	.top-bar-section li:not(.has-form) a:not(.button) {
+	  background-color: transparent;
+	  font-size: 20px;
+	  margin-top: 49px;
+		margin-bottom: 48px; 
+	}
+	.top-bar-section ul li {
+	  background-color: transparent;
+	  margin: 0px 10px 0px ;
+	  a {
+	  	height: 70px;
+	  	line-height: 120px;
+	  	margin: 0px;
+	  }
+	}
+}
+
+
