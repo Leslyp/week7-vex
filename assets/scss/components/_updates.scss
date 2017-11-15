@@ -1,0 +1,33 @@
+.updates {
+
+	.updates__title {
+		font-size: 31px;
+		line-height: 37px;
+		color: white;
+	}	
+	.updates__text {
+		color: white;
+	}
+	label {
+		display: none
+	}
+	input {
+		width: 350px;
+		height: 48px;
+		border-top-left-radius: 100px; 
+		border-bottom-left-radius: 100px; 
+		border:  none;
+		margin-bottom: 90px;
+		&::placeholder {
+			color: $placeholder-primary;
+			padding-left: 33px;
+		} 
+	}
+  .button-secondary{
+		border-top-right-radius: 100px; 
+		border-bottom-right-radius: 100px; 
+		margin-left: -5px;
+		height: 48px;
+		width: 127px;
+	}
+}

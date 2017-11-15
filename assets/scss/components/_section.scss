@@ -20,7 +20,37 @@
 }
 
 .section--choose {
+	margin-bottom: 81px;
 	.choose__heading {
 		margin-bottom: 74px;
+	}
+	.row {
+		margin-bottom: 25px;
+	}
+}
+
+.section--checkout {
+	margin-bottom: 109px;
+	.checkout__heading {
+		margin-bottom: 74px;
+	}
+}
+
+.section--updates {
+	background-image: url('../img/watchBg.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	margin-bottom: 70px;
+	.updates__title {
+		margin-top: 84px;
+		margin-bottom: 12px;
+	}
+}
+
+
+.section--reviews {
+	margin-bottom: 76px;
+	.button {
+		margin-top: 75px;
 	}
 }

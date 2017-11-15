@@ -1,0 +1,22 @@
+.reviews {
+	.button {
+		width: 207px;
+		height: 50px;
+	}
+	.reviews__heading {
+		margin-bottom: 73px;
+	}
+	.review {
+		padding: 20px;
+		.review__image-qoute {
+			margin-bottom: 21px;
+		}
+		.review__text {
+			font-size: 14px;
+			line-height: 23px;
+			margin-bottom: 24px;
+			font-family: $font-Lora;
+			font-style: italic;
+		}
+	}
+}
