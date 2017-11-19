@@ -18,5 +18,15 @@
 			font-family: $font-Lora;
 			font-style: italic;
 		}
+		.review__title {
+			margin-bottom: 24px;
+			font-weight: bold;
+		}
+		.review__position {
+			font-size: 14px;
+			line-height: 18px;
+			margin-bottom: 77px;
+			font-weight: 300;
+		}
 	}
 }
